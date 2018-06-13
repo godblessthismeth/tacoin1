@@ -1,0 +1,19 @@
+src/Tacoind
+src/test_Tacoin
+
+# Ignore build dir
+build/
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+Tacoin-qt
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
